@@ -1,0 +1,24 @@
+.testimonials-container{
+    background-image: url("../../Images/happyClient/happyclient.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 460px;
+    width: 100%;
+    margin-bottom: 150px;
+}
+
+.testimonials-overlay{
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 20px;
+}
+
+.sliderContainer{
+    /* position: absolute;
+    bottom: -250px; */
+
+}

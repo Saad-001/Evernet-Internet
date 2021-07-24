@@ -1,0 +1,21 @@
+.image-bg{
+    background-image: url("../../Images/backgroundImages/anotherbg.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+}
+
+.transparent-div{
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.transparent-div .wrapper{
+    height: auto;
+    /* margin-top: 80px; */
+}
+
+.transparent-div .wrapper-two{
+    /* margin-top: 120px; */
+} 

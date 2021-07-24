@@ -1,0 +1,15 @@
+.after-hover:hover{    
+    color: white;
+    background-color: rgb(239, 68, 68);
+    transition: background 0.5s ease-in;
+}
+
+.after-hover:hover .icon{
+    display: none;
+}
+
+.after-hover:hover .details-btn{
+    display: inline-block;
+    color: gray;
+    background-color: white;
+}
