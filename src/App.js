@@ -3,8 +3,7 @@ import React from 'react';
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import SignIn from './components/SignInPage/SignIn';
 import AllRoutesLinks from './components/AllRoutesLinks/AllRoutesLinks';
