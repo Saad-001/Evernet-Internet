@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 // import 'swiper/swiper.scss';
 import "swiper/swiper.min.css";
 import "swiper/components/pagination/pagination.min.css"
-import SwiperCore, { Pagination } from 'swiper/core';
+// import SwiperCore, { Pagination } from 'swiper/core';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import clientImg from '../../Images/client/client.png';

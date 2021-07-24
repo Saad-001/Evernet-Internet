@@ -18,6 +18,7 @@ function classNames(...classes) {
 
 const Navbar = () => {
     const [loggedInUser, setLoggedInUser] = useState("")
+    console.log(setLoggedInUser)
     return (
         <Disclosure as="nav" className="bg-transparent">
             {({ open }) => (

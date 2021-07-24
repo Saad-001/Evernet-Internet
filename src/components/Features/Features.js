@@ -1,7 +1,7 @@
 import { faChromecast } from '@fortawesome/free-brands-svg-icons';
 import { faHeadset, faMoneyCheckAlt, faRocket, faServer, faTv } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import tariffPlan from '../../Images/backgroundImages/tariffPlan.png';
+// import tariffPlan from '../../Images/backgroundImages/tariffPlan.png';
 import React from 'react';
 
 const Features = () => {
